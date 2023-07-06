@@ -1,0 +1,22 @@
+.container{
+    display:flex;
+    flex-direction:column;
+    gap:50px;
+    margin-top:20px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  margin-bottom: 20px;
+}
+
+.title {
+  margin-bottom: 10px;
+}
+
+.desc {
+  font-style: 18px;
+  color: #999;
+}
